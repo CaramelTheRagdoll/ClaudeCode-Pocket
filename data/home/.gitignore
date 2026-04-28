@@ -1,0 +1,5 @@
+# Ignore everything in this directory (user data at runtime)
+/*
+# Except this file and the README
+!/.gitignore
+!/README.md

@@ -1,0 +1,5 @@
+# Ignore everything in this directory (populated by build.cmd)
+/*
+# Except this file and the README
+!/.gitignore
+!/README.md

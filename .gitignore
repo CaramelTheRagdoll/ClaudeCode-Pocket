@@ -1,11 +1,5 @@
-# Runtime binaries — downloaded by build.cmd
-runtime/
-
-# Build artifacts
+# Build artifacts — temporary download files (entire directory)
 downloads/
-
-# User data — contains credentials, tokens, and session info
-data/
 
 # CC Switch binaries — large, downloaded separately from GitHub Releases
 cc-switch/CC Switch.exe
